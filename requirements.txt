@@ -1,4 +1,0 @@
-Technologies Used:
-Power BI Desktop for data import, transformation, visualization
-DAX for measures and calculated columns
-CSV format dataset

@@ -98,5 +98,7 @@ The dataset contains the following columns:
   ```DAX
   Profit Margin = ((SUM(Sales) - SUM(Total Cost)) / SUM(Sales)) * 100
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

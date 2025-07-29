@@ -4,12 +4,12 @@ An interactive Power BI dashboard to analyze sales data, identify trends, top-se
 
 ---
 
-## 🎯 Purpose
+## Purpose
 Analyze sales data to identify trends, best-selling products, and revenue metrics for better business decision-making.
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 The dataset contains these columns:
 
@@ -24,11 +24,11 @@ The dataset contains these columns:
 - CITY  
 - HOUR  
 
-👉 Dataset: [Sales Dataset.zip](./Sales%20Dataset.zip)
+ Dataset: [Sales Dataset.zip](./Sales%20Dataset.zip)
 
 ---
 
-## 🔧 Project Files
+## Project Files
 
 | File Name                  | Description                                  |
 |----------------------------|----------------------------------------------|
@@ -40,7 +40,7 @@ The dataset contains these columns:
 
 ---
 
-## 📋 Step-by-Step Execution
+##  Step-by-Step Execution
 
 ###  Load Data  
 - Download and extract the dataset from `Sales Dataset.zip`.  
